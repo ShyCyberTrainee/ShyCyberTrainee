@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Timi!
+# 👋 Hey there, I'm Vimi!
 
 🎯 **Aspiring Cybersecurity Professional** | 📍 India  
 💻 Currently training in Cyber Security with a focus on ethical hacking, vulnerability analysis, and Linux-based systems.
